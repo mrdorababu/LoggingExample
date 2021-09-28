@@ -1,0 +1,13 @@
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\bin\Debug\netcoreapp3.1\LoggingExample.exe
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\bin\Debug\netcoreapp3.1\LoggingExample.deps.json
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\bin\Debug\netcoreapp3.1\LoggingExample.runtimeconfig.json
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\bin\Debug\netcoreapp3.1\LoggingExample.runtimeconfig.dev.json
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\bin\Debug\netcoreapp3.1\LoggingExample.dll
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\bin\Debug\netcoreapp3.1\LoggingExample.pdb
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\obj\Debug\netcoreapp3.1\LoggingExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\obj\Debug\netcoreapp3.1\LoggingExample.AssemblyInfoInputs.cache
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\obj\Debug\netcoreapp3.1\LoggingExample.AssemblyInfo.cs
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\obj\Debug\netcoreapp3.1\LoggingExample.csproj.CoreCompileInputs.cache
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\obj\Debug\netcoreapp3.1\LoggingExample.dll
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\obj\Debug\netcoreapp3.1\LoggingExample.pdb
+E:\Coding\VisualStudioCpp\TestProjects\LoggingExample\obj\Debug\netcoreapp3.1\LoggingExample.genruntimeconfig.cache
